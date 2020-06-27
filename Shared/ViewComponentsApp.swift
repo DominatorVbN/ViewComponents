@@ -11,7 +11,7 @@ import SwiftUI
 struct ViewComponentsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ProgressControl()
         }
     }
 }
