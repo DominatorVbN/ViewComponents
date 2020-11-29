@@ -12,21 +12,21 @@ An app demonstrating all new components realeased in SwiftUI 2.0
 * VideoPlayer
 
 ## iOS
-<img src="screenshots/home.png" width=202>
-<img src="screenshots/DatePicker.png" width=202>
-<img src="screenshots/ProgressView.png" width=202>
-<img src="screenshots/ColorPicker.png" width=202>
-<img src="screenshots/Label.png" width=202>
-<img src="screenshots/Link.png" width=202>
-<img src="screenshots/TextEditor.png" width=202>
-<img src="screenshots/VideoPlayer.png" width=202>
+<img src="Screenshots/home.png" width=202>
+<img src="Screenshots/DatePicker.png" width=202>
+<img src="Screenshots/ProgressView.png" width=202>
+<img src="Screenshots/ColorPicker.png" width=202>
+<img src="Screenshots/Label.png" width=202>
+<img src="Screenshots/Link.png" width=202>
+<img src="Screenshots/TextEditor.png" width=202>
+<img src="Screenshots/VideoPlayer.png" width=202>
 
 ## macOS
 
-<img src="screenshots/DatePickerMac.png" width=405>
-<img src="screenshots/ProgressViewMac.png" width=405>
-<img src="screenshots/LabelMac.png" width=405>
-<img src="screenshots/LinkMac.png" width=405>
-<img src="screenshots/TextEditorMac.png" width=405>
-<img src="screenshots/VideoPlayerMac.png" width=405>
-<img src="screenshots/ColorPickerMac.png" width= 400>
+<img src="Screenshots/DatePickerMac.png" width=405>
+<img src="Screenshots/ProgressViewMac.png" width=405>
+<img src="Screenshots/LabelMac.png" width=405>
+<img src="Screenshots/LinkMac.png" width=405>
+<img src="Screenshots/TextEditorMac.png" width=405>
+<img src="Screenshots/VideoPlayerMac.png" width=405>
+<img src="Screenshots/ColorPickerMac.png" width= 400>
