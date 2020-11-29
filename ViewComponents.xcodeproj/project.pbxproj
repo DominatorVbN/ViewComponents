@@ -7,23 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		830965B624AA592700B0A42E /* LinkComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 830965B524AA592700B0A42E /* LinkComponent.swift */; };
+		830965B724AA592700B0A42E /* LinkComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 830965B524AA592700B0A42E /* LinkComponent.swift */; };
+		83169B4224A87ABA005B52AC /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83169B4124A87ABA005B52AC /* MainView.swift */; };
+		83169B4324A87ABA005B52AC /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83169B4124A87ABA005B52AC /* MainView.swift */; };
 		831C0EC424A7771800708B65 /* ViewComponentsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 831C0EB124A7771600708B65 /* ViewComponentsApp.swift */; };
 		831C0EC524A7771800708B65 /* ViewComponentsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 831C0EB124A7771600708B65 /* ViewComponentsApp.swift */; };
-		831C0EC624A7771800708B65 /* ProgressControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 831C0EB224A7771600708B65 /* ProgressControl.swift */; };
-		831C0EC724A7771800708B65 /* ProgressControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 831C0EB224A7771600708B65 /* ProgressControl.swift */; };
+		831C0EC624A7771800708B65 /* ProgressComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 831C0EB224A7771600708B65 /* ProgressComponent.swift */; };
+		831C0EC724A7771800708B65 /* ProgressComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 831C0EB224A7771600708B65 /* ProgressComponent.swift */; };
 		831C0EC824A7771800708B65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 831C0EB324A7771700708B65 /* Assets.xcassets */; };
 		831C0EC924A7771800708B65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 831C0EB324A7771700708B65 /* Assets.xcassets */; };
+		831C0F1524A7870300708B65 /* DatePickerComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 831C0F1424A7870300708B65 /* DatePickerComponent.swift */; };
+		831C0F1624A7870300708B65 /* DatePickerComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 831C0F1424A7870300708B65 /* DatePickerComponent.swift */; };
+		8325A08024AD0AFE0090152B /* VideoPlayerComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8325A07F24AD0AFE0090152B /* VideoPlayerComponent.swift */; };
+		8325A08124AD0AFE0090152B /* VideoPlayerComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8325A07F24AD0AFE0090152B /* VideoPlayerComponent.swift */; };
+		8358B2EF24A8A7AF0047568E /* DefaultDatePickerComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8358B2EE24A8A7AF0047568E /* DefaultDatePickerComponent.swift */; };
+		8358B2F024A8A7AF0047568E /* DefaultDatePickerComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8358B2EE24A8A7AF0047568E /* DefaultDatePickerComponent.swift */; };
+		8383097524AA4EEA000A8E63 /* ColorPickerComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8383097424AA4EEA000A8E63 /* ColorPickerComponent.swift */; };
+		8383097624AA4EEA000A8E63 /* ColorPickerComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8383097424AA4EEA000A8E63 /* ColorPickerComponent.swift */; };
+		838C0AC024ACF11E00909B04 /* TextEditorComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 838C0ABF24ACF11E00909B04 /* TextEditorComponent.swift */; };
+		838C0AC124ACF11E00909B04 /* TextEditorComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 838C0ABF24ACF11E00909B04 /* TextEditorComponent.swift */; };
+		83D9440C24AA54F70057AD0C /* LabelComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D9440B24AA54F70057AD0C /* LabelComponent.swift */; };
+		83D9440D24AA54F70057AD0C /* LabelComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D9440B24AA54F70057AD0C /* LabelComponent.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		830965B524AA592700B0A42E /* LinkComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkComponent.swift; sourceTree = "<group>"; };
+		83169B4124A87ABA005B52AC /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		831C0EB124A7771600708B65 /* ViewComponentsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewComponentsApp.swift; sourceTree = "<group>"; };
-		831C0EB224A7771600708B65 /* ProgressControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressControl.swift; sourceTree = "<group>"; };
+		831C0EB224A7771600708B65 /* ProgressComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressComponent.swift; sourceTree = "<group>"; };
 		831C0EB324A7771700708B65 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		831C0EB824A7771700708B65 /* ViewComponents.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewComponents.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		831C0EBB24A7771700708B65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		831C0EC024A7771800708B65 /* ViewComponents.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewComponents.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		831C0EC224A7771800708B65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		831C0EC324A7771800708B65 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		831C0F1424A7870300708B65 /* DatePickerComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerComponent.swift; sourceTree = "<group>"; };
+		8325A07F24AD0AFE0090152B /* VideoPlayerComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerComponent.swift; sourceTree = "<group>"; };
+		8358B2EE24A8A7AF0047568E /* DefaultDatePickerComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefaultDatePickerComponent.swift; sourceTree = "<group>"; };
+		8383097424AA4EEA000A8E63 /* ColorPickerComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerComponent.swift; sourceTree = "<group>"; };
+		838C0ABF24ACF11E00909B04 /* TextEditorComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorComponent.swift; sourceTree = "<group>"; };
+		83D9440B24AA54F70057AD0C /* LabelComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelComponent.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +68,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		28FD10CB257426BB00E47A31 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				831C0F1424A7870300708B65 /* DatePickerComponent.swift */,
+				831C0EB224A7771600708B65 /* ProgressComponent.swift */,
+				8358B2EE24A8A7AF0047568E /* DefaultDatePickerComponent.swift */,
+				8383097424AA4EEA000A8E63 /* ColorPickerComponent.swift */,
+				83D9440B24AA54F70057AD0C /* LabelComponent.swift */,
+				830965B524AA592700B0A42E /* LinkComponent.swift */,
+				838C0ABF24ACF11E00909B04 /* TextEditorComponent.swift */,
+				8325A07F24AD0AFE0090152B /* VideoPlayerComponent.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
 		831C0EAB24A7771500708B65 = {
 			isa = PBXGroup;
 			children = (
@@ -57,8 +96,9 @@
 		831C0EB024A7771600708B65 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				28FD10CB257426BB00E47A31 /* Components */,
 				831C0EB124A7771600708B65 /* ViewComponentsApp.swift */,
-				831C0EB224A7771600708B65 /* ProgressControl.swift */,
+				83169B4124A87ABA005B52AC /* MainView.swift */,
 				831C0EB324A7771700708B65 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -187,8 +227,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				831C0EC624A7771800708B65 /* ProgressControl.swift in Sources */,
+				831C0EC624A7771800708B65 /* ProgressComponent.swift in Sources */,
+				8383097524AA4EEA000A8E63 /* ColorPickerComponent.swift in Sources */,
+				8358B2EF24A8A7AF0047568E /* DefaultDatePickerComponent.swift in Sources */,
+				83D9440C24AA54F70057AD0C /* LabelComponent.swift in Sources */,
+				83169B4224A87ABA005B52AC /* MainView.swift in Sources */,
+				831C0F1524A7870300708B65 /* DatePickerComponent.swift in Sources */,
 				831C0EC424A7771800708B65 /* ViewComponentsApp.swift in Sources */,
+				838C0AC024ACF11E00909B04 /* TextEditorComponent.swift in Sources */,
+				830965B624AA592700B0A42E /* LinkComponent.swift in Sources */,
+				8325A08024AD0AFE0090152B /* VideoPlayerComponent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -196,8 +244,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				831C0EC724A7771800708B65 /* ProgressControl.swift in Sources */,
+				831C0EC724A7771800708B65 /* ProgressComponent.swift in Sources */,
+				8383097624AA4EEA000A8E63 /* ColorPickerComponent.swift in Sources */,
+				8358B2F024A8A7AF0047568E /* DefaultDatePickerComponent.swift in Sources */,
+				83D9440D24AA54F70057AD0C /* LabelComponent.swift in Sources */,
+				83169B4324A87ABA005B52AC /* MainView.swift in Sources */,
+				831C0F1624A7870300708B65 /* DatePickerComponent.swift in Sources */,
 				831C0EC524A7771800708B65 /* ViewComponentsApp.swift in Sources */,
+				838C0AC124ACF11E00909B04 /* TextEditorComponent.swift in Sources */,
+				830965B724AA592700B0A42E /* LinkComponent.swift in Sources */,
+				8325A08124AD0AFE0090152B /* VideoPlayerComponent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -376,7 +432,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.16;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				PRODUCT_BUNDLE_IDENTIFIER = co.amitsamant.ViewComponents;
 				PRODUCT_NAME = ViewComponents;
 				SDKROOT = macosx;
@@ -400,7 +456,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.16;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				PRODUCT_BUNDLE_IDENTIFIER = co.amitsamant.ViewComponents;
 				PRODUCT_NAME = ViewComponents;
 				SDKROOT = macosx;
