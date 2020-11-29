@@ -14,7 +14,7 @@ struct LinkComponent: View {
     
     var body: some View {
         ScrollView {
-            VStack(spacing: 20){
+            VStack(alignment: .leading, spacing: 20){
                 GroupBox(label: Text("Default")) {
                     Link(
                         "Visit Site",
@@ -54,7 +54,12 @@ struct LinkComponent: View {
                 }
             }
             .padding()
-            .frame(minWidth: 400, minHeight: 600)
+            .frame(
+                minWidth: 400,
+                maxWidth: .infinity,
+                minHeight: 600,
+                maxHeight: .infinity
+            )
         }
         .navigationTitle("Link")
     }

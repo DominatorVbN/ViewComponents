@@ -14,9 +14,7 @@ struct VideoPlayerComponent: View {
     @State var isShowingFull = false
     var backgroundColor = Color.secondary
     var player = AVPlayer(
-        url:  URL(
-            string: "https://devstreaming-cdn.apple.com/videos/wwdc/2020/10691/2/A92788CB-81ED-4CCF-B6B1-4DD7A1F3E87D/wwdc2020_10691_sd.mp4"
-        )!
+        url:  Bundle.main.url(forResource: "wwdc", withExtension: "mp4")!
     )
     
     var button: some View{

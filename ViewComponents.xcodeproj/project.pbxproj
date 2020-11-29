@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		28E541CD25742EB8002533D2 /* wwdc.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 28E541CC25742EB8002533D2 /* wwdc.mp4 */; };
+		28E541CE25742EB8002533D2 /* wwdc.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 28E541CC25742EB8002533D2 /* wwdc.mp4 */; };
 		830965B624AA592700B0A42E /* LinkComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 830965B524AA592700B0A42E /* LinkComponent.swift */; };
 		830965B724AA592700B0A42E /* LinkComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 830965B524AA592700B0A42E /* LinkComponent.swift */; };
 		83169B4224A87ABA005B52AC /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83169B4124A87ABA005B52AC /* MainView.swift */; };
@@ -32,6 +34,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		28E541C9257429DE002533D2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		28E541CC25742EB8002533D2 /* wwdc.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = wwdc.mp4; sourceTree = "<group>"; };
 		830965B524AA592700B0A42E /* LinkComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkComponent.swift; sourceTree = "<group>"; };
 		83169B4124A87ABA005B52AC /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		831C0EB124A7771600708B65 /* ViewComponentsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewComponentsApp.swift; sourceTree = "<group>"; };
@@ -86,6 +90,7 @@
 		831C0EAB24A7771500708B65 = {
 			isa = PBXGroup;
 			children = (
+				28E541C9257429DE002533D2 /* README.md */,
 				831C0EB024A7771600708B65 /* Shared */,
 				831C0EBA24A7771700708B65 /* iOS */,
 				831C0EC124A7771800708B65 /* macOS */,
@@ -96,6 +101,7 @@
 		831C0EB024A7771600708B65 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				28E541CC25742EB8002533D2 /* wwdc.mp4 */,
 				28FD10CB257426BB00E47A31 /* Components */,
 				831C0EB124A7771600708B65 /* ViewComponentsApp.swift */,
 				83169B4124A87ABA005B52AC /* MainView.swift */,
@@ -209,6 +215,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				831C0EC824A7771800708B65 /* Assets.xcassets in Resources */,
+				28E541CD25742EB8002533D2 /* wwdc.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -217,6 +224,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				831C0EC924A7771800708B65 /* Assets.xcassets in Resources */,
+				28E541CE25742EB8002533D2 /* wwdc.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
